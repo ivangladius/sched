@@ -1,0 +1,6 @@
+
+#!/bin/bash
+
+
+rm main
+g++ -o main main.cpp sched.cpp -Wall -Wextra -pedantic
